@@ -1,4 +1,4 @@
-from os import scandir, rename, makedirs,
+from os import scandir, rename, makedirs
 from os.path import splitext, exists, join
 from shutil import move
 from time import sleep
@@ -11,7 +11,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 source_dir = os.path.expandvars(r"%userprofile%\Downloads")
-base_dir = os.path.expandvars(r"%userprofile%\Desktop\Sorted Downloads")
+base_dir = os.path.expandvars(r"%userprofile%\Sorted Downloads")
 dest_dir_image = os.path.join(base_dir, "Images")
 dest_dir_video = os.path.join(base_dir, "Videos")
 dest_dir_audio = os.path.join(base_dir, "Audio")
