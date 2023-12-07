@@ -1,0 +1,12 @@
+C:\Users\Joey\Coding\Go\coffee-api\target\debug\deps\libpkcs8-e9ce62c5569c062a.rmeta: C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\lib.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\error.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\private_key_info.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\traits.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\version.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\../README.md
+
+C:\Users\Joey\Coding\Go\coffee-api\target\debug\deps\libpkcs8-e9ce62c5569c062a.rlib: C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\lib.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\error.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\private_key_info.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\traits.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\version.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\../README.md
+
+C:\Users\Joey\Coding\Go\coffee-api\target\debug\deps\pkcs8-e9ce62c5569c062a.d: C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\lib.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\error.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\private_key_info.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\traits.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\version.rs C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\../README.md
+
+C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\lib.rs:
+C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\error.rs:
+C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\private_key_info.rs:
+C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\traits.rs:
+C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\version.rs:
+C:\Users\Joey\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pkcs8-0.10.2\src\../README.md:
